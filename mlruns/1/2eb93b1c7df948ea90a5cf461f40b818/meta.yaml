@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ismael/PycharmProjects/HyperpameterTuning/mlruns/1/2eb93b1c7df948ea90a5cf461f40b818/artifacts
+end_time: 1655748308526
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2eb93b1c7df948ea90a5cf461f40b818
+run_uuid: 2eb93b1c7df948ea90a5cf461f40b818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655748304327
+status: 4
+tags: []
+user_id: Ismael

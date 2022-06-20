@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Ismael/PycharmProjects/HyperpameterTuning/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: first_run
